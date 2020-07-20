@@ -47,4 +47,4 @@ nrfutil dfu usb-serial --package app_uart_fw1_pca10100.zip -p com10
 
 * nRF52833 DK / nRF52840 DK 
 * Nordic nRF5 SDK 17.0 / S140v7.0.1
-* Segger Embedde Studio
+* Segger Embedded Studio 4.52 or later
