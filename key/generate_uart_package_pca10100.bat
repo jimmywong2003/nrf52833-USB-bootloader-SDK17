@@ -1,0 +1,1 @@
+nrfutil pkg generate --hw-version 52 --application-version 0 --application ..\ble_app_uart\pca10100\s140\ses\output\debug\exe\ble_app_uart_pca10100_s140.hex --sd-req 0xCA --key-file demo_private.key app_uart_fw1_pca10100.zip
